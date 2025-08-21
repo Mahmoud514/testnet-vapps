@@ -31,4 +31,4 @@ User -> ProofPay UI -> Backend -> Soundness Layer (Proof Verification) -> Blockc
 
 ## Developer Info  
 - **GitHub**: [mahmoud514] (https://github.com/Mahmoud514)  
-- **Discord ID**: x.satan
+- **Discord ID**: x.satan / id : 933862127003926609
